@@ -1,2 +1,0 @@
-# training
-code tribe training
